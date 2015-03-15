@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<custom-sql>
+
+    <sql id="deleteFoo">
+        <![CDATA[
+        DELETE FROM test_foo WHERE test_foo.userName=?
+    ]]>
+    </sql>
+</custom-sql>

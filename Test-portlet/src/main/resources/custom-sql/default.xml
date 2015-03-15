@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<custom-sql>
+    <sql file="custom-sql/foo.xml" />
+</custom-sql>
